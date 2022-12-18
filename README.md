@@ -3,9 +3,9 @@
 <div align="center">
   <img height="150" src="https://iili.io/H3ze4kv.png" alt="telegram" border="0"/>
 </div>
-  <h3 align="center">Backend Telegram</h3>
+  <h3 align="center">Backend insan cita chat</h3>
   <p align="center">
-    <a href="https://github.com/Iqbalapredo/BE-Telegram/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Iqbalapredo/BE-CHAT/"><strong>Explore the docs »</strong></a>
     <br />
     <a href="/">View Demo</a>
     ·
@@ -64,7 +64,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Back End Repo
 ```
-git clone https://github.com/Iqbalapredo/BE-Telegram.git
+git clone https://github.com/Iqbalapredo/BE-CHAT.git
 ```
 - Go To Folder Repo
 ```
@@ -121,4 +121,4 @@ Contributions are what make the open source community such an amazing place to b
 
 My Email : iqbalapreedo@gmail.com
 
-Project Link: [https://github.com/Iqbalapredo/BE-Telegram/](https://github.com/Iqbalapredo/BE-Telegram)
+Project Link: [https://github.com/Iqbalapredo/BE-CHAT/](https://github.com/Iqbalapredo/BE-CHAT)
